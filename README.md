@@ -1,5 +1,7 @@
 # sst-astro-svelte-sigma-demo
 
+<video src="./svelte5-sigma-demo.mov" controls="true"></video>
+
 ## local development
 
 ```sh
