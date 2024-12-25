@@ -1,6 +1,6 @@
 # sst-astro-svelte-sigma-demo
 
-<video src="./svelte5-sigma-demo.mov" controls="true"></video>
+https://github.com/user-attachments/assets/8d98953c-3b95-4f1c-b30f-81068d918f5b
 
 ## local development
 
