@@ -1,9 +1,9 @@
 ---
+import Root from '../components/react/views/Root';
 import Layout from '../layouts/Layout.astro';
-import Root from '../components/svelte/views/Root.svelte';
 import '../styles/sigma-react-demo.global.css';
 ---
 
 <Layout>
-  <Root client:only="svelte" />
+	<Root client:only="react"/>
 </Layout>
